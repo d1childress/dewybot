@@ -1,0 +1,59 @@
+body {
+  font: 15px arial, sans-serif;
+  background-color: #000000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("");
+}
+
+#bodybox {
+  margin: auto;
+  max-width: 550px;
+  font: 15px arial, sans-serif;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+  box-shadow: 5px 5px 5px grey;
+  border-radius: 15px;
+}
+
+#chatboarder {
+  border-style: solid;
+  background-image:url("https://i.postimg.cc/2yBkHtnS/Robo-25.png");
+  background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-position: center;
+  border-width: 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 25px;
+  padding-left: 15px;
+  border-radius: 15px;
+}
+
+#chatbox {
+  font: 15px arial, sans-serif;
+  height: 22px;
+  width: 100%;
+}
+
+h1 {
+  margin: auto;
+}
+
+h3 {
+  margin: auto;
+}
+
+pre {
+  background-color: #f0f0f0;
+  margin-left: 20px;
+}
